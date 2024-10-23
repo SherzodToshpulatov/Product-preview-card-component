@@ -12,7 +12,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Live site here](https://your-live-site-url.com)
+- Live Site URL: [Live site here](https://product-preview-card-component-beta-jade.vercel.app/)
 
 ## My process
 
